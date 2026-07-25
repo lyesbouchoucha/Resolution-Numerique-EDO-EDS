@@ -2,7 +2,7 @@
 
 # Méthodes Numériques : Lotka-Volterra et Black-Scholes
 
-Ce dépôt contient l'implémentation en Python de méthodes numériques appliquées à la résolution d'équations différentielles ordinaires (EDO) et stochastiques (EDS), réalisé dans le cadre d'un TP noté.
+Ce dépôt contient l'implémentation en Python de méthodes numériques appliquées à la résolution d'équations différentielles ordinaires (EDO) et stochastiques (EDS), réalisé dans le cadre d'un TP noté et a obtenu la note de 17/20.
 
 ## 📋 Description du projet
 
